@@ -8,7 +8,7 @@
     color: #000;
 }
 .overlay{
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
     height: inherit;
     min-height: inherit;
 }

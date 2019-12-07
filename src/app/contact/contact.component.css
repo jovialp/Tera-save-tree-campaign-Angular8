@@ -18,7 +18,7 @@
     left: 50%;
     transform: translate(-50%,0%); */
     margin-top: 80px;
-    padding: 40px;
+    padding: 20px 40px 0px 40px;
     background: -moz-linear-gradient(top, rgba(117,121,255,0.4), rgba(178,36,239,0.4) );
     background: linear-gradient(to bottom, rgba(117,121,255,0.4), rgba(178,36,239,0.4));
     /* border: 1px solid #b224ef; */
@@ -91,4 +91,10 @@
  .form-bg textarea:valid ~ .border{
    /* top: 50px; */
    width: 100%;
+ }
+ .danger{
+   border: 0.1em solid red;
+ }
+ .red{
+   background: red;
  }

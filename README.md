@@ -1,3 +1,3 @@
-# tera-save-tree-angular8
+# Tera-save-tree-angular8
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/tera-save-tree-angular8)
+[View on StackBlitz ⚡️](https://tera-save-tree-angular8.stackblitz.io/)
